@@ -1,2 +1,3 @@
 requestAnimationFrame();
 reportError();
+scroll();
